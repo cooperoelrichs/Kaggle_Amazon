@@ -1,0 +1,5 @@
+Plan
+
+1. Figure out how to handle the categorical data!!!!!
+	See: 2.1.2. Handling categorical features
+		http://scikit-learn.github.io/scikit-learn-tutorial/general_concepts.html
